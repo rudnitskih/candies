@@ -1,6 +1,6 @@
 # CANDIES
 
-### [Demo](https://ruchkovlad.github.io/candyies/src/index.html)
+### [Demo](https://ruchkovlad.github.io/candies/src/index.html)
 
 ### home page for site "CANDIES"
 
