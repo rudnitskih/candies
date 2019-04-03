@@ -24,7 +24,6 @@ html {
 }
 
 a,
-button,
-input {
-  cursor: url("img/cursor.svg"), auto;
+button {
+  cursor: pointer;
 }
