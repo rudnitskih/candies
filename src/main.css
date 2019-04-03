@@ -294,8 +294,6 @@ ul {
   font-size: 12px;
   color: var(--li-font_color);
   list-style: none;
-  line-height: 25px;
-  padding: 4px 10px 0 0;
 }
 
 .copyright {
@@ -348,4 +346,6 @@ ul {
   font-size: 12px;
   color: var(--li-font_color);
   text-decoration: none;
+  padding: 8px 10px 5px 0;
+  display: inline-block;
 }
