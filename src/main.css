@@ -116,6 +116,14 @@ ul {
 
 }
 
+.mail_input:focus:valid + .mail_button  {
+  border: 2px solid var(--green_border);
+}
+
+.mail_input:focus:invalid + .mail_button {
+  border: 2px solid var(--error_border);
+}
+
 .mail_input::placeholder {
   color: var(--placeholder_color);
   font-weight: 400;
